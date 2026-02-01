@@ -30,7 +30,7 @@ A modern, premium health and hygiene awareness website with beautiful animations
 ## Setup
 
 1. Clone the repository
-2. Open `HOME.html` in your web browser
+2. Open `index.html` in your web browser
 3. All pages are linked and ready to use
 
 ## Browser Support
